@@ -1,0 +1,1 @@
+new Chart(document.getElementById("chart"),{type:"bar",data:{labels:["Inti","Volatile Food","Administered Price"],datasets:[{label:"Inflasi YoY (%)",data:[2.38,6.21,1.93]}]}});
